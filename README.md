@@ -149,14 +149,24 @@ npm run dev
 
 📦 Folder Structure
 prescripto/
+
 ├── client/          # Frontend (React.js)
+
 ├── server/          # Backend (Node.js, Express.js)
+
 ├── models/          # MongoDB Schemas
+
 ├── controllers/     # API Controllers
+
 ├── routes/          # API Routes
+
 ├── middleware/      # Authentication and Error Handling
+
 ├── config/          # Configuration Files
+
 ├── utils/           # Utility Functions
+
 ├── public/          # Static Files
+
 └── .env             # Environment Variables
 
