@@ -36,6 +36,7 @@ View and manage all appointments (cancel or mark as completed).
 
 
 🏠 Home Page
+
 Features a user-friendly layout where users can:
 Search for doctors based on specialties.
 View top doctors and their profiles.
@@ -44,12 +45,14 @@ Footer includes navigation links: Home, About Us, Delivery Info, Privacy Policy,
 
 
 🩺 All Doctors Page
+
 Lists all available doctors.
 Users can filter doctors by specialty.
 Clicking on a doctor's profile redirects to the Doctor Appointment Page.
 
 
 📄 About Page
+
 Provides information about Prescripto’s vision and mission.
 Why Choose Us section highlights:
 Efficiency: Streamlined appointment process.
@@ -59,12 +62,14 @@ Footer section with additional links.
 
 
 📞 Contact Page
+
 Contains office address and contact details.
 Section to explore job opportunities.
 Footer navigation links.
 
 
 📅 Doctor Appointment Page
+
 Displays detailed information about the selected doctor:
 Profile picture, qualification, experience, and a brief description.
 Appointment booking form: Choose date, time, and payment method.
@@ -74,6 +79,7 @@ Users need to create an account or log in before booking an appointment.
 
 
 👤 User Profile
+
 Accessible after login.
 Users can view and edit their profile:
 Upload profile picture.
@@ -83,6 +89,7 @@ Logout option available.
 
 
 🗄 Admin Panel
+
 Dashboard:
 Displays statistics: Number of doctors, appointments, patients, and latest bookings.
 Option to cancel bookings if needed.
@@ -96,6 +103,7 @@ Admin actions: Cancel or Mark as Completed.
 
 
 🩺 Doctor Dashboard
+
 Earnings Overview:
 Total earnings from completed appointments.
 Appointments List:
@@ -106,6 +114,7 @@ Doctors can update their profile information, including description, fees, addre
 
 
 💳 Payment Integration
+
 Supports multiple payment methods:
 Cash Payment
 Stripe Integration
@@ -114,6 +123,7 @@ Ensures a secure and smooth payment experience for users.
 
 
 🌐 Project Setup
+
 To set up and run this project locally:
 
 Clone the Repository:
