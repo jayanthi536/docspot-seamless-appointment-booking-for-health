@@ -1,1 +1,0 @@
-Detailed explanation on project 
